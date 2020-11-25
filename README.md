@@ -1,4 +1,26 @@
-### Hi there 👋
+### React, Vue, TypeScript/JavaScript and PHP
+
+I have been working as a developer over a decade including 5+ years remote working experience. I'm used to work comfortably 12+ hours per day.
+
+I have developed:
+
+- 📱 Mobile Apps with Cordova, React Native and Java (for Android)
+- 🌐 (Progressive) Web Apps with Vue, React, TypeScript/JavaScript and PHP
+- 🖥️ Desktop Apps with Electron and C# Forms
+- 🔨 Frameworks, Libraries and Tools (that were used by developers)
+
+Feel free to reach out to me if:
+
+- You have a project to work with
+- You want consultancy in your next big software
+- You want help with your existing product/project
+
+You can contact me via:
+
+- Email: <safrazik@gmail.com>
+- Skype: **safrazik**
+
+https://safrazik.com
 
 <!--
 **safrazik/safrazik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
