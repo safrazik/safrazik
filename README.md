@@ -20,7 +20,7 @@ You can contact me via:
 - Email: <safrazik@gmail.com>
 - Skype: **safrazik**
 
-https://safrazik.com
+https://zetmel.com
 
 <!--
 **safrazik/safrazik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
