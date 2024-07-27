@@ -1,6 +1,6 @@
 ### React, Vue, TypeScript/JavaScript and PHP
 
-I have been working as a developer for 10+ years including 5+ years remote working experience. I'm used to work comfortably 12+ hours per day.
+I have been working as a developer for 14+ years including 9+ years remote working experience. I'm used to work comfortably 12+ hours per day.
 
 I have developed:
 
